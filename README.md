@@ -24,11 +24,6 @@ We are seeking a talented Full Stack Web Developer to join our team. In this rol
 -   Availability for video conferencing and team meetings during standard business hours.
 -   Excellent written and verbal communication skills in English.
 
-extra[:name:] = :value:
-
-Where :name: is the field name, and :value it's value. Any extra with an empty string as :name: will be ignored as well 
-any extra with an empty :value:
-
 ## Trial:
 For the trial, we would like you to create a responsive, mobile-first web application using Laravel, Livewire, Bootstrap, and any other Laravel package or third-party library that you may find useful. The application should include the following features:
 
